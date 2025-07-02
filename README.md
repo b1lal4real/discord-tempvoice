@@ -18,6 +18,7 @@ A feature-rich Discord bot built using `discord.js@14` that automatically create
 - 💬 Easy setup with `+setup` and `+resend` commands
 
 ---
+---
 
 ## 📦 Requirements
 
