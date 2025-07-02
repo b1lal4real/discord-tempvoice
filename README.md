@@ -25,7 +25,7 @@ A feature-rich Discord bot built using `discord.js@14` that automatically create
 - Discord bot token
 - `discord.js@14`
 
----
+----
 
 ## 🚀 Setup
 
